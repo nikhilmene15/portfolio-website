@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.37dff7a1.css",
+    "main.js": "/portfolio-website/static/js/main.c85cf6c4.js",
+    "static/js/453.a23575d3.chunk.js": "/portfolio-website/static/js/453.a23575d3.chunk.js",
+    "static/media/syne-latin-400-normal.woff": "/portfolio-website/static/media/syne-latin-400-normal.c5503c5394df978996ad.woff",
+    "static/media/RosehotFreeVersionRegular-2Olmw.woff": "/portfolio-website/static/media/RosehotFreeVersionRegular-2Olmw.d58879109dd07326aba9.woff",
+    "static/media/syne-latin-400-normal.woff2": "/portfolio-website/static/media/syne-latin-400-normal.1aecfc165ac6b67deeba.woff2",
+    "static/media/syne-latin-ext-400-normal.woff": "/portfolio-website/static/media/syne-latin-ext-400-normal.73b1233a267ed4453302.woff",
+    "static/media/syne-latin-ext-400-normal.woff2": "/portfolio-website/static/media/syne-latin-ext-400-normal.cde411274e6a9a1dcc8c.woff2",
+    "static/media/syne-greek-400-normal.woff": "/portfolio-website/static/media/syne-greek-400-normal.eb57161ad31c66adeb7d.woff",
+    "static/media/syne-greek-400-normal.woff2": "/portfolio-website/static/media/syne-greek-400-normal.2886193b56838f79faa5.woff2",
+    "index.html": "/portfolio-website/index.html",
+    "main.37dff7a1.css.map": "/portfolio-website/static/css/main.37dff7a1.css.map",
+    "main.c85cf6c4.js.map": "/portfolio-website/static/js/main.c85cf6c4.js.map",
+    "453.a23575d3.chunk.js.map": "/portfolio-website/static/js/453.a23575d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37dff7a1.css",
+    "static/js/main.c85cf6c4.js"
+  ]
+}
