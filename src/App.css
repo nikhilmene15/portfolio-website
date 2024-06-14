@@ -1,0 +1,68 @@
+body {
+
+  background-color: #000 !important;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body,
+ul,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  display: inline-block;
+}
+.container{
+  max-width: 90%!important;
+}
+@media screen and (max-width: 767.5px) {
+  .container{
+    max-width: 100%!important;
+  }
+  
+}
+body::-webkit-scrollbar {
+  width: 5px;  
+}
+
+body::-webkit-scrollbar-track {
+  background: #000;        /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: grey;    /* color of the scroll thumb */
+  border-radius: 20px;       /* roundness of the scroll thumb */
+  /* border: 3px solid #fff;   */
+}
+
+
+/* .sparkle-container { */
+  /* position: fixed; */
+  /* top: 0; */
+  /* left: 0; */
+  /* width: 100%; */
+  /* height: 100vh; /~ Set the height to 100vh to fill the entire screen ~/ */
+/* } */
+/*  */
+
+/* Define styles for sparkles */
+@font-face {
+  font-family: 'RosehotFreeVersionRegular';
+  src: url('/public/assets/fonts/RosehotFreeVersionRegular-2Olmw.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}

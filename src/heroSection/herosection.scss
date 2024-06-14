@@ -1,0 +1,94 @@
+.hero__section{
+    margin-top: 10rem;
+    @media screen and (max-width: 1440px) {
+      margin-top: 7rem;
+
+      
+    }
+    .hero__sec_content{
+        h1{
+          color: #fff;
+          font-family: RosehotFreeVersionRegular;
+          font-size: 75px;
+          font-style: normal;
+          font-weight: 400;
+          line-height: normal;
+          @media screen and (max-width: 1440px) {
+            font-size: 55px;
+            
+          }
+          @media screen and (max-width: 767.5px) {
+            font-size: 36px;
+            
+          }
+          span{
+            color: #bf9b5f;
+          }
+        }
+        h2{
+            font-size: 64px;
+            color: #fff;
+            font-family: "syne";
+            font-weight: 700;
+            line-height: 78px;
+            background: linear-gradient(
+            90.31deg,
+            #fa2576 15.75%,
+            #ff8327 54.83%,
+            #3939ff 88.12%
+          );
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          @media screen and (max-width: 1600px) {
+            font-size: 54px;
+            line-height: 62px;
+            
+          }
+          @media screen and (max-width: 1440px) {
+            font-size: 44px;
+            line-height: 52px;
+    
+          }
+          @media screen and (max-width: 767.5px) {
+            font-size:24px;
+            line-height: 38px;
+    
+          }
+        }
+        .curriculum_vitae{
+          text-decoration: none;
+          color: #000;
+          font-size: 24px;
+          font-weight: 600;
+          background-color: #00feff;
+          border-radius: 10px;
+          padding: 5px 10px;
+          font-family: "syne";
+          @media screen and (max-width: 1440px) {
+            font-size: 20px;
+            
+          }
+          @media screen and (max-width: 767.5px) {
+            font-size: 14px;
+            
+          }
+        }
+    }
+    .hero__img{
+        width: 80%;
+        margin: 0 auto;
+    }
+}
+.Typewriter__cursor{
+  
+  background: linear-gradient(
+  90.31deg,
+  #fa2576 15.75%,
+  #ff8327 54.83%,
+  #3939ff 88.12%
+) !important;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+    width: 4px!important;
+    display: inline-block;
+}
